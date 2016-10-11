@@ -1,0 +1,25 @@
+﻿.menu {
+    padding-left:10px;
+}
+.menu ul {
+    list-style:none;
+}
+.menu li {
+    display:inline;
+}
+.menu a:hover {
+    color:red;
+}
+table {
+   vertical-align:middle;
+   text-align:left;  
+ }
+.header {
+    font-weight:bold;
+}
+ td {
+    padding-right:10px;
+ }
+input {
+    width: 150px;
+}

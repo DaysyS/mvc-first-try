@@ -1,0 +1,164 @@
+E:\Dana\TestProjects\MvcTest1\MvcTest1\bin\ApplicationInsights.config
+E:\Dana\TestProjects\MvcTest1\MvcTest1\bin\roslyn\csc.exe
+E:\Dana\TestProjects\MvcTest1\MvcTest1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Dana\TestProjects\MvcTest1\MvcTest1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Dana\TestProjects\MvcTest1\MvcTest1\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Dana\TestProjects\MvcTest1\MvcTest1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Dana\TestProjects\MvcTest1\MvcTest1\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Dana\TestProjects\MvcTest1\MvcTest1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Dana\TestProjects\MvcTest1\MvcTest1\bin\roslyn\System.Collections.Immutable.dll
+E:\Dana\TestProjects\MvcTest1\MvcTest1\bin\roslyn\System.Reflection.Metadata.dll
+E:\Dana\TestProjects\MvcTest1\MvcTest1\bin\roslyn\vbc.exe
+E:\Dana\TestProjects\MvcTest1\MvcTest1\bin\roslyn\VBCSCompiler.exe
+E:\Dana\TestProjects\MvcTest1\MvcTest1\bin\roslyn\VBCSCompiler.exe.config
+E:\Dana\TestProjects\MvcTest1\MvcTest1\bin\MvcTest1.dll.config
+E:\Dana\TestProjects\MvcTest1\MvcTest1\bin\MvcTest1.dll
+E:\Dana\TestProjects\MvcTest1\MvcTest1\bin\MvcTest1.pdb
+E:\Dana\TestProjects\MvcTest1\MvcTest1\bin\Antlr3.Runtime.dll
+E:\Dana\TestProjects\MvcTest1\MvcTest1\bin\EntityFramework.dll
+E:\Dana\TestProjects\MvcTest1\MvcTest1\bin\EntityFramework.SqlServer.dll
+E:\Dana\TestProjects\MvcTest1\MvcTest1\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Dana\TestProjects\MvcTest1\MvcTest1\bin\Microsoft.AI.DependencyCollector.dll
+E:\Dana\TestProjects\MvcTest1\MvcTest1\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Dana\TestProjects\MvcTest1\MvcTest1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Dana\TestProjects\MvcTest1\MvcTest1\bin\Microsoft.AI.Web.dll
+E:\Dana\TestProjects\MvcTest1\MvcTest1\bin\Microsoft.AI.WindowsServer.dll
+E:\Dana\TestProjects\MvcTest1\MvcTest1\bin\Microsoft.ApplicationInsights.dll
+E:\Dana\TestProjects\MvcTest1\MvcTest1\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Dana\TestProjects\MvcTest1\MvcTest1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Dana\TestProjects\MvcTest1\MvcTest1\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Dana\TestProjects\MvcTest1\MvcTest1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Dana\TestProjects\MvcTest1\MvcTest1\bin\Microsoft.Owin.dll
+E:\Dana\TestProjects\MvcTest1\MvcTest1\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Dana\TestProjects\MvcTest1\MvcTest1\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Dana\TestProjects\MvcTest1\MvcTest1\bin\Microsoft.Owin.Security.dll
+E:\Dana\TestProjects\MvcTest1\MvcTest1\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Dana\TestProjects\MvcTest1\MvcTest1\bin\Microsoft.Owin.Security.Google.dll
+E:\Dana\TestProjects\MvcTest1\MvcTest1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Dana\TestProjects\MvcTest1\MvcTest1\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Dana\TestProjects\MvcTest1\MvcTest1\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Dana\TestProjects\MvcTest1\MvcTest1\bin\Microsoft.Web.Infrastructure.dll
+E:\Dana\TestProjects\MvcTest1\MvcTest1\bin\Newtonsoft.Json.dll
+E:\Dana\TestProjects\MvcTest1\MvcTest1\bin\Owin.dll
+E:\Dana\TestProjects\MvcTest1\MvcTest1\bin\System.Web.Helpers.dll
+E:\Dana\TestProjects\MvcTest1\MvcTest1\bin\System.Web.Mvc.dll
+E:\Dana\TestProjects\MvcTest1\MvcTest1\bin\System.Web.Optimization.dll
+E:\Dana\TestProjects\MvcTest1\MvcTest1\bin\System.Web.Razor.dll
+E:\Dana\TestProjects\MvcTest1\MvcTest1\bin\System.Web.WebPages.Deployment.dll
+E:\Dana\TestProjects\MvcTest1\MvcTest1\bin\System.Web.WebPages.dll
+E:\Dana\TestProjects\MvcTest1\MvcTest1\bin\System.Web.WebPages.Razor.dll
+E:\Dana\TestProjects\MvcTest1\MvcTest1\bin\WebGrease.dll
+E:\Dana\TestProjects\MvcTest1\MvcTest1\bin\Microsoft.AI.DependencyCollector.xml
+E:\Dana\TestProjects\MvcTest1\MvcTest1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Dana\TestProjects\MvcTest1\MvcTest1\bin\Microsoft.AI.Web.xml
+E:\Dana\TestProjects\MvcTest1\MvcTest1\bin\Microsoft.AI.WindowsServer.xml
+E:\Dana\TestProjects\MvcTest1\MvcTest1\bin\Microsoft.ApplicationInsights.xml
+E:\Dana\TestProjects\MvcTest1\MvcTest1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Dana\TestProjects\MvcTest1\MvcTest1\bin\System.Web.Helpers.xml
+E:\Dana\TestProjects\MvcTest1\MvcTest1\bin\System.Web.Mvc.xml
+E:\Dana\TestProjects\MvcTest1\MvcTest1\bin\System.Web.Optimization.xml
+E:\Dana\TestProjects\MvcTest1\MvcTest1\bin\System.Web.Razor.xml
+E:\Dana\TestProjects\MvcTest1\MvcTest1\bin\System.Web.WebPages.xml
+E:\Dana\TestProjects\MvcTest1\MvcTest1\bin\System.Web.WebPages.Deployment.xml
+E:\Dana\TestProjects\MvcTest1\MvcTest1\bin\System.Web.WebPages.Razor.xml
+E:\Dana\TestProjects\MvcTest1\MvcTest1\bin\Antlr3.Runtime.pdb
+E:\Dana\TestProjects\MvcTest1\MvcTest1\bin\Newtonsoft.Json.xml
+E:\Dana\TestProjects\MvcTest1\MvcTest1\bin\EntityFramework.xml
+E:\Dana\TestProjects\MvcTest1\MvcTest1\bin\EntityFramework.SqlServer.xml
+E:\Dana\TestProjects\MvcTest1\MvcTest1\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Dana\TestProjects\MvcTest1\MvcTest1\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Dana\TestProjects\MvcTest1\MvcTest1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Dana\TestProjects\MvcTest1\MvcTest1\bin\Microsoft.Owin.xml
+E:\Dana\TestProjects\MvcTest1\MvcTest1\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Dana\TestProjects\MvcTest1\MvcTest1\bin\Microsoft.Owin.Security.xml
+E:\Dana\TestProjects\MvcTest1\MvcTest1\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Dana\TestProjects\MvcTest1\MvcTest1\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Dana\TestProjects\MvcTest1\MvcTest1\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Dana\TestProjects\MvcTest1\MvcTest1\bin\Microsoft.Owin.Security.Google.xml
+E:\Dana\TestProjects\MvcTest1\MvcTest1\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Dana\TestProjects\MvcTest1\MvcTest1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Dana\TestProjects\MvcTest1\MvcTest1\obj\Debug\MvcTest1.csprojResolveAssemblyReference.cache
+E:\Dana\TestProjects\MvcTest1\MvcTest1\obj\Debug\MvcTest1.dll
+E:\Dana\TestProjects\MvcTest1\MvcTest1\obj\Debug\MvcTest1.pdb
+E:\ke & self improvement\PROJECTS\TestProjects\MvcTest1\MvcTest1\bin\ApplicationInsights.config
+E:\ke & self improvement\PROJECTS\TestProjects\MvcTest1\MvcTest1\bin\roslyn\csc.exe
+E:\ke & self improvement\PROJECTS\TestProjects\MvcTest1\MvcTest1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\ke & self improvement\PROJECTS\TestProjects\MvcTest1\MvcTest1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\ke & self improvement\PROJECTS\TestProjects\MvcTest1\MvcTest1\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\ke & self improvement\PROJECTS\TestProjects\MvcTest1\MvcTest1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\ke & self improvement\PROJECTS\TestProjects\MvcTest1\MvcTest1\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\ke & self improvement\PROJECTS\TestProjects\MvcTest1\MvcTest1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\ke & self improvement\PROJECTS\TestProjects\MvcTest1\MvcTest1\bin\roslyn\System.Collections.Immutable.dll
+E:\ke & self improvement\PROJECTS\TestProjects\MvcTest1\MvcTest1\bin\roslyn\System.Reflection.Metadata.dll
+E:\ke & self improvement\PROJECTS\TestProjects\MvcTest1\MvcTest1\bin\roslyn\vbc.exe
+E:\ke & self improvement\PROJECTS\TestProjects\MvcTest1\MvcTest1\bin\roslyn\VBCSCompiler.exe
+E:\ke & self improvement\PROJECTS\TestProjects\MvcTest1\MvcTest1\bin\roslyn\VBCSCompiler.exe.config
+E:\ke & self improvement\PROJECTS\TestProjects\MvcTest1\MvcTest1\bin\MvcTest1.dll.config
+E:\ke & self improvement\PROJECTS\TestProjects\MvcTest1\MvcTest1\bin\MvcTest1.dll
+E:\ke & self improvement\PROJECTS\TestProjects\MvcTest1\MvcTest1\bin\MvcTest1.pdb
+E:\ke & self improvement\PROJECTS\TestProjects\MvcTest1\MvcTest1\bin\Antlr3.Runtime.dll
+E:\ke & self improvement\PROJECTS\TestProjects\MvcTest1\MvcTest1\bin\EntityFramework.dll
+E:\ke & self improvement\PROJECTS\TestProjects\MvcTest1\MvcTest1\bin\EntityFramework.SqlServer.dll
+E:\ke & self improvement\PROJECTS\TestProjects\MvcTest1\MvcTest1\bin\Microsoft.AI.Agent.Intercept.dll
+E:\ke & self improvement\PROJECTS\TestProjects\MvcTest1\MvcTest1\bin\Microsoft.AI.DependencyCollector.dll
+E:\ke & self improvement\PROJECTS\TestProjects\MvcTest1\MvcTest1\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\ke & self improvement\PROJECTS\TestProjects\MvcTest1\MvcTest1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\ke & self improvement\PROJECTS\TestProjects\MvcTest1\MvcTest1\bin\Microsoft.AI.Web.dll
+E:\ke & self improvement\PROJECTS\TestProjects\MvcTest1\MvcTest1\bin\Microsoft.AI.WindowsServer.dll
+E:\ke & self improvement\PROJECTS\TestProjects\MvcTest1\MvcTest1\bin\Microsoft.ApplicationInsights.dll
+E:\ke & self improvement\PROJECTS\TestProjects\MvcTest1\MvcTest1\bin\Microsoft.AspNet.Identity.Core.dll
+E:\ke & self improvement\PROJECTS\TestProjects\MvcTest1\MvcTest1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\ke & self improvement\PROJECTS\TestProjects\MvcTest1\MvcTest1\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\ke & self improvement\PROJECTS\TestProjects\MvcTest1\MvcTest1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\ke & self improvement\PROJECTS\TestProjects\MvcTest1\MvcTest1\bin\Microsoft.Owin.dll
+E:\ke & self improvement\PROJECTS\TestProjects\MvcTest1\MvcTest1\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\ke & self improvement\PROJECTS\TestProjects\MvcTest1\MvcTest1\bin\Microsoft.Owin.Security.Cookies.dll
+E:\ke & self improvement\PROJECTS\TestProjects\MvcTest1\MvcTest1\bin\Microsoft.Owin.Security.dll
+E:\ke & self improvement\PROJECTS\TestProjects\MvcTest1\MvcTest1\bin\Microsoft.Owin.Security.Facebook.dll
+E:\ke & self improvement\PROJECTS\TestProjects\MvcTest1\MvcTest1\bin\Microsoft.Owin.Security.Google.dll
+E:\ke & self improvement\PROJECTS\TestProjects\MvcTest1\MvcTest1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\ke & self improvement\PROJECTS\TestProjects\MvcTest1\MvcTest1\bin\Microsoft.Owin.Security.OAuth.dll
+E:\ke & self improvement\PROJECTS\TestProjects\MvcTest1\MvcTest1\bin\Microsoft.Owin.Security.Twitter.dll
+E:\ke & self improvement\PROJECTS\TestProjects\MvcTest1\MvcTest1\bin\Microsoft.Web.Infrastructure.dll
+E:\ke & self improvement\PROJECTS\TestProjects\MvcTest1\MvcTest1\bin\Newtonsoft.Json.dll
+E:\ke & self improvement\PROJECTS\TestProjects\MvcTest1\MvcTest1\bin\Owin.dll
+E:\ke & self improvement\PROJECTS\TestProjects\MvcTest1\MvcTest1\bin\System.Web.Helpers.dll
+E:\ke & self improvement\PROJECTS\TestProjects\MvcTest1\MvcTest1\bin\System.Web.Mvc.dll
+E:\ke & self improvement\PROJECTS\TestProjects\MvcTest1\MvcTest1\bin\System.Web.Optimization.dll
+E:\ke & self improvement\PROJECTS\TestProjects\MvcTest1\MvcTest1\bin\System.Web.Razor.dll
+E:\ke & self improvement\PROJECTS\TestProjects\MvcTest1\MvcTest1\bin\System.Web.WebPages.Deployment.dll
+E:\ke & self improvement\PROJECTS\TestProjects\MvcTest1\MvcTest1\bin\System.Web.WebPages.dll
+E:\ke & self improvement\PROJECTS\TestProjects\MvcTest1\MvcTest1\bin\System.Web.WebPages.Razor.dll
+E:\ke & self improvement\PROJECTS\TestProjects\MvcTest1\MvcTest1\bin\WebGrease.dll
+E:\ke & self improvement\PROJECTS\TestProjects\MvcTest1\MvcTest1\bin\Microsoft.AI.DependencyCollector.xml
+E:\ke & self improvement\PROJECTS\TestProjects\MvcTest1\MvcTest1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\ke & self improvement\PROJECTS\TestProjects\MvcTest1\MvcTest1\bin\Microsoft.AI.Web.xml
+E:\ke & self improvement\PROJECTS\TestProjects\MvcTest1\MvcTest1\bin\Microsoft.AI.WindowsServer.xml
+E:\ke & self improvement\PROJECTS\TestProjects\MvcTest1\MvcTest1\bin\Microsoft.ApplicationInsights.xml
+E:\ke & self improvement\PROJECTS\TestProjects\MvcTest1\MvcTest1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\ke & self improvement\PROJECTS\TestProjects\MvcTest1\MvcTest1\bin\System.Web.Helpers.xml
+E:\ke & self improvement\PROJECTS\TestProjects\MvcTest1\MvcTest1\bin\System.Web.Mvc.xml
+E:\ke & self improvement\PROJECTS\TestProjects\MvcTest1\MvcTest1\bin\System.Web.Optimization.xml
+E:\ke & self improvement\PROJECTS\TestProjects\MvcTest1\MvcTest1\bin\System.Web.Razor.xml
+E:\ke & self improvement\PROJECTS\TestProjects\MvcTest1\MvcTest1\bin\System.Web.WebPages.xml
+E:\ke & self improvement\PROJECTS\TestProjects\MvcTest1\MvcTest1\bin\System.Web.WebPages.Deployment.xml
+E:\ke & self improvement\PROJECTS\TestProjects\MvcTest1\MvcTest1\bin\System.Web.WebPages.Razor.xml
+E:\ke & self improvement\PROJECTS\TestProjects\MvcTest1\MvcTest1\bin\Antlr3.Runtime.pdb
+E:\ke & self improvement\PROJECTS\TestProjects\MvcTest1\MvcTest1\bin\Newtonsoft.Json.xml
+E:\ke & self improvement\PROJECTS\TestProjects\MvcTest1\MvcTest1\bin\EntityFramework.xml
+E:\ke & self improvement\PROJECTS\TestProjects\MvcTest1\MvcTest1\bin\EntityFramework.SqlServer.xml
+E:\ke & self improvement\PROJECTS\TestProjects\MvcTest1\MvcTest1\bin\Microsoft.AspNet.Identity.Core.xml
+E:\ke & self improvement\PROJECTS\TestProjects\MvcTest1\MvcTest1\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\ke & self improvement\PROJECTS\TestProjects\MvcTest1\MvcTest1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\ke & self improvement\PROJECTS\TestProjects\MvcTest1\MvcTest1\bin\Microsoft.Owin.xml
+E:\ke & self improvement\PROJECTS\TestProjects\MvcTest1\MvcTest1\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\ke & self improvement\PROJECTS\TestProjects\MvcTest1\MvcTest1\bin\Microsoft.Owin.Security.xml
+E:\ke & self improvement\PROJECTS\TestProjects\MvcTest1\MvcTest1\bin\Microsoft.Owin.Security.Facebook.xml
+E:\ke & self improvement\PROJECTS\TestProjects\MvcTest1\MvcTest1\bin\Microsoft.Owin.Security.Cookies.xml
+E:\ke & self improvement\PROJECTS\TestProjects\MvcTest1\MvcTest1\bin\Microsoft.Owin.Security.OAuth.xml
+E:\ke & self improvement\PROJECTS\TestProjects\MvcTest1\MvcTest1\bin\Microsoft.Owin.Security.Google.xml
+E:\ke & self improvement\PROJECTS\TestProjects\MvcTest1\MvcTest1\bin\Microsoft.Owin.Security.Twitter.xml
+E:\ke & self improvement\PROJECTS\TestProjects\MvcTest1\MvcTest1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\ke & self improvement\PROJECTS\TestProjects\MvcTest1\MvcTest1\obj\Debug\MvcTest1.dll
+E:\ke & self improvement\PROJECTS\TestProjects\MvcTest1\MvcTest1\obj\Debug\MvcTest1.pdb
+E:\ke & self improvement\PROJECTS\TestProjects\MvcTest1\MvcTest1\obj\Debug\MvcTest1.csprojResolveAssemblyReference.cache
