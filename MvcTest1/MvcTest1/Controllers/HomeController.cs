@@ -17,9 +17,14 @@ namespace MvcTest1.Controllers {
 			// получаем из бд все объекты Book
 			IEnumerable<Book> books = db.Books;
 			// передаем все объекты в динамическое свойство Books в ViewBag
-			ViewBag.Books = books;
+			//ViewBag.Books = books;
 			// возвращаем представление
-			return View();
+			return View(books);
+		}
+
+		public ActionResult Partial() {
+			ViewBag.Message = "Это частичное представление.";
+			return PartialView();
 		}
 
 		// асинхронный метод
@@ -45,14 +50,14 @@ namespace MvcTest1.Controllers {
 			return "Спасибо," + purchase.Person + ", за покупку!";
 		}
 
-		// Home/Square?a=10&h=3
-		//Home/Square?h=5
-		//Home/Square/
-		public string Square(int a=10, int h=3) {
-			double s = a * h / 2;
-			return "<h2>Площадь треугольника с основанием " + a +
-					" и высотой " + h + " равна " + s + "</h2>";
-		}
+		//// Home/Square?a=10&h=3
+		////Home/Square?h=5
+		////Home/Square/
+		//public string Square(int a=10, int h=3) {
+		//	double s = a * h / 2;
+		//	return "<h2>Площадь треугольника с основанием " + a +
+		//			" и высотой " + h + " равна " + s + "</h2>";
+		//}
 
 		public string Square() {
 			int a = Int32.Parse(Request.Params["a"]);
